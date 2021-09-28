@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Seasons 
 
-If you don't know what seasons are click this link: (https://www.timeanddate.com/calendar/aboutseasons.html)
+If you don't know what seasons are click this link: [https://www.timeanddate.com/calendar/aboutseasons.html](https://www.timeanddate.com/calendar/aboutseasons.html)
 
 Winter is my favorite season because I like the cold!
 
