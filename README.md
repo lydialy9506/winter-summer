@@ -1,3 +1,4 @@
+![winter](https://user-images.githubusercontent.com/91549602/135108436-32931429-8d58-446c-adf4-aecfcab1247a.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lydialy9506/winter-summer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -15,7 +16,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bulle![winter](https://user-images.githubusercontent.com/91549602/135108536-740c2349-7f7e-47ca-af14-f08701cf9aa2.png)
+ted
 - List
 
 1. Numbered
