@@ -1,6 +1,8 @@
 ![summer](https://user-images.githubusercontent.com/91549602/135109538-5cd6de12-28f8-48cf-b4c5-9cd89ec317d4.jpeg)
 ![winter](https://user-images.githubusercontent.com/91549602/135108436-32931429-8d58-446c-adf4-aecfcab1247a.png)
-## Welcome to my website, winter-summer
+## Welcome to my website!
+
+This is based off the seasons winter and summer, I have an image of each on this website.
 
 You can use the [editor on GitHub](https://github.com/lydialy9506/winter-summer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
