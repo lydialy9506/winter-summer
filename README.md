@@ -8,6 +8,12 @@ You can use the [editor on GitHub](https://github.com/lydialy9506/winter-summer/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Seasons 
+
+If you don't know what seasons are click this link: (https://www.timeanddate.com/calendar/aboutseasons.html)
+
+Winter is my favorite season because I like the cold!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
