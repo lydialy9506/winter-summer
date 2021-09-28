@@ -1,6 +1,6 @@
 ![summer](https://user-images.githubusercontent.com/91549602/135109538-5cd6de12-28f8-48cf-b4c5-9cd89ec317d4.jpeg)
 ![winter](https://user-images.githubusercontent.com/91549602/135108436-32931429-8d58-446c-adf4-aecfcab1247a.png)
-## Welcome to GitHub Pages
+## Welcome to my website, winter-summer
 
 You can use the [editor on GitHub](https://github.com/lydialy9506/winter-summer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
